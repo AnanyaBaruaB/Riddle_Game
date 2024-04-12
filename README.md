@@ -17,7 +17,8 @@ Players can:
 ![image](https://github.com/AnanyaBaruaB/Riddle_Game/assets/130342684/be57a35a-d1c1-421e-bb3a-3c1c0db8d6a8)
 ![image](https://github.com/AnanyaBaruaB/Riddle_Game/assets/130342684/7655bb51-48b4-4464-9651-91c69f7fd85f)
 ![image](https://github.com/AnanyaBaruaB/Riddle_Game/assets/130342684/fc019024-c9a4-43e1-a30f-546570441da1)
-![Uploading image.png…]()
+![image](https://github.com/AnanyaBaruaB/Riddle_Game/assets/130342684/b1836404-40c9-4d3f-b8c9-19809fd38931)
+
 
 
 
