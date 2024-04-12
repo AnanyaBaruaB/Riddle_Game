@@ -14,6 +14,10 @@ Players can:
 ~ Use hint
 ~ See Score
 
+![image](https://github.com/AnanyaBaruaB/Riddle_Game/assets/130342684/be57a35a-d1c1-421e-bb3a-3c1c0db8d6a8)
+![image](https://github.com/AnanyaBaruaB/Riddle_Game/assets/130342684/7655bb51-48b4-4464-9651-91c69f7fd85f)
+![image](https://github.com/AnanyaBaruaB/Riddle_Game/assets/130342684/fc019024-c9a4-43e1-a30f-546570441da1)
+![Uploading image.png…]()
 
 
 
